@@ -9,7 +9,7 @@ void setup() {
 void loop()
 {
 
-  RTTY.tx("3.141592654\n");
+  RTTY.tx("pi is 3.14159 correct to 5 decimal places.\n");
   delay(2000);
 
 }

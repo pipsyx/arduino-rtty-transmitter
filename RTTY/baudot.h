@@ -3,7 +3,7 @@
 
 #include "Arduino.h"
 
-#define BAUDOT_SHIFT_LTRS 0x1b
+#define BAUDOT_SHIFT_LTRS 0x1f
 #define BAUDOT_SHIFT_FIGS 0x1b
 
 
